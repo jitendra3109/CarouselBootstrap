@@ -1,7 +1,7 @@
 # CarouselBootstrap
 This is project of learning of bootstrap framework using carousel template.
 
+### Override  exist classes and Ids will not affect on Web-Responsive
 
-## Override Exsit Class and Id will not affect on Web-Responsive
- 
- - If you want costmize design of bootstrap framework then you should definity follow of the standard class of bootstrap.
+ - It very simple and basic framework so you can also use in your project.  
+ - If you want customize design of bootstrap framework then you should definitely follow of the standard class of bootstrap.
